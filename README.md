@@ -2,8 +2,10 @@
 ``git --version``
 ``node -v``
 ``npm -v``
-## Manejo de git
+# Iniciar proyecto
 ``npm init -y``
+
+## Manejo de git
 ``git add .``
 ``git commit -m "v1"``
 ``git branch -M master``
