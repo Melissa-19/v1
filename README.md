@@ -4,9 +4,15 @@
 ``npm -v``
 ## Manejo de git
 ``npm init -y``
+
 ``git add .``
+
 ``git commit -m "v1"``
+
 ``git branch -M master``
+
+``git remote add origin https://github.com/Melissa-19/v1.git``
+
 ``git push -u origin master``
 
 
