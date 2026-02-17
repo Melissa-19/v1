@@ -4,10 +4,10 @@ const crearUsuario = async (data) =>{
     return await usuario.create(data);
 };
 
-const listarusuarios = async ()=>{
+const listarUsuarios = async ()=>{
     return await usuario.findAll();
 };
 module.exports ={
     crearUsuario,
-    listarusuarios
+    listarUsuarios
 };
